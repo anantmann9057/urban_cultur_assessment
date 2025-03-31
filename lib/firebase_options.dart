@@ -53,10 +53,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCGs4rerzO7w6y7sI9XVShX-4tk3BU1DDA',
-    appId: '1:794676075422:android:89708736376faf5b55d48f',
-    messagingSenderId: '794676075422',
-    projectId: 'urban-cultur',
-    storageBucket: 'urban-cultur.firebasestorage.app',
+ 
   );
 }
